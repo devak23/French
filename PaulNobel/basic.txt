@@ -63,6 +63,8 @@ He did reserve a table = il a réservé une table (eel ah ray-zer-vay oon tah-bl
 She has reserved = elle a réservé (el-ah ray-zer-vay)
 She has reserved a table = elle a réservé une table (el-ah ray-zer-vay oon tah-bla)
 Your father has reserved a table = votre père a réservé une table (voh-thruh pair ah ray-zer-vay oon tah-bla)
+
+Date: 29-Sep-2025
 I have reserved a table for you = j'ai réservé une table pour vous (jay ray-zer-vay oon tah-bla pour woo)
 I have reserved a table for dinner = j'ai réservé une table pour le dîner (jay ray-zer-vay oon tah-bla pour looh din-ay)
 invited = invité (ahn-vay-tey)
