@@ -67,7 +67,7 @@ Your father has reserved a table = votre père a réservé une table (voh-thruh 
 Date: 29-Sep-2025
 I have reserved a table for you = j'ai réservé une table pour vous (jay ray-zer-vay oon tah-bla pour woo)
 I have reserved a table for dinner = j'ai réservé une table pour le dîner (jay ray-zer-vay oon tah-bla pour looh din-ay)
-invited = invité (ahn-vay-tey)
+invited = invité (ahn-vit-tey)
 I have invited = j'ai invité (jay ahn-vit-tey)
 I have invited Paul = j'ai invité Paul (jay ahn-vit-tey Paul)
 to the park = au parc (oh paark)
