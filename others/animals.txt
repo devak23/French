@@ -1,0 +1,57 @@
+Pets - Les Animaux Domestiques (lez-an-ee-mauh domes-ti-eek)
+============================================================
+the dog = le chien (looh-shian)
+the puppy = le chiot (looh-shio)
+the cat = le chat (looh-shaa)
+the kitten = le chaton (looh-shaa-ton) [n in ton is nasal - as in "taun"]
+the fish = le poisson (looh-poi-syon)
+the goldfish = le poisson rouge (looh-poi-syon roo-zsh) [n in syon is nasal]
+the pig = le cochon (looh-koh-shon) [n in shon is nasal]
+the guinea pig = le cochon d'Inde (looh-koh-shon d-an-duh)
+the rabbit = le lapin (looh-lap-pan) [n in pan is nasal]
+the mouse = le souris (looh-soo-rhee)
+the parrot = le perroquet (looh-pero-kay)
+the hamster = le hamster (looh-am-sta-ah) ['ah' with a kh sound]
+the horse = le cheval (looh-che-vala)
+the snake = le serpent (looh-syer-pon) [n in pon is nasal]
+
+
+Farm Animals - Les Animaux De La Ferme (lez-an-ee-mauh duh-la-ferme-mau)
+========================================================================
+the Cow - la vache (lah vaa-sh)
+the Sheep - le mouton (looh-moo-taun) [n in taun is nasal]
+the Pig - le cochon (looh-koh-shon) [n in shon is nasal]
+the Chicken - le poulet (looh-poo-lay)
+the Goat - la chèvre (lah shay-vra)
+the Horse - le cheval (looh-che-vala)
+the Duck - le canard (looh-can-aa)
+
+
+Zoo Animals - Les Animaux Du Zoo (lez-an-ee-mauh do zoo)
+=========================================================
+the Lion - le lion (looh-lee-yon) [n in yon is nasal]
+the Tiger - le tigre (looh-tee-gruh)
+the Elephant - l'éléphant (lee-lee-phon) [n in phon is nasal]
+the Zebra - le zèbre (looh-zhay-bruh)
+the Rhinoceros - le rhinocéros (looh-rhin-o-say-rhos)
+the Hippopotamus - l'hippopotame (lee-po-potam-uh)
+the Giraffe - la girafe (laa-gir-ahf)
+the Penguin - le manchot (ley-maun-show)
+the Monkey - le singe (looh-saanjh)
+the Kangaroo - le kangourou (looh-kan-goo-roo)
+
+
+Sea Animals - Les Animaux De La Mer (lez-an-ee-mauh do la mare)
+===============================================================
+the Shark - le requin (looh-reh-kyaan)
+the Whale - la baleine (lah bah-lay-n)
+the Octopus - la pieuvre (lah pee-yeh-vuh)
+the Squid/Shrimp - le calmar (looh-kel-maar)
+the Prawn - la crevette (lah kree-vet)
+the Lobster - le homard (luh-hom-ard)
+the Crab - le crabe (looh-khraab)
+the Seal - le phoque (luh-phu-kay)
+the Turtle - la tortue (la tor-tue)
+the Dolphin - le dauphin (loh-doh-phaun) [n in phun is nasal]
+the Jellyfish - la méduse (lah me-duz)
+the Seahorse - l'hippocampe (lee-po-komp)

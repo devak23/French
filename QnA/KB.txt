@@ -1,0 +1,27 @@
+Q1. Why is "Farm animals" translated as "Les Animaux De La Ferme" where as "Zoo animals" is translated as "Les Animaux Du Zoo"  and why not "Les Animaux De La Zoo"
+Ans1
+"Farm animals" → "Les Animaux De La Ferme"
+Here we use "de la" because:
+"Ferme" (farm) is a feminine noun (la ferme)
+When talking about things that belong to or are associated with a place, French uses "de + article"
+"de + la" = "de la" (no contraction)
+So: "animals of the farm" = "animaux de la ferme"
+
+"Zoo animals" → "Les Animaux Du Zoo"
+Here we use "du" because:
+"Zoo" is a masculine noun (le zoo)
+"de + le" contracts to "du"
+So: "animals of the zoo" = "animaux du zoo"
+
+Why not "Les Animaux De La Zoo"?
+This would be incorrect for two reasons:
+Gender mismatch: "Zoo" is masculine, so it needs the masculine article "le", not the feminine "la"
+Missing contraction: Even if zoo were feminine, "de + la" doesn't contract, but since zoo is masculine, we need "de + le" which contracts to "du"
+The Pattern
+The general rule is:
+Masculine places: "de + le" → "du" (du zoo, du musée, du parc)
+Feminine places: "de + la" → "de la" (de la ferme, de la plage, de la montagne)
+Plural places: "de + les" → "des" (des États-Unis, des Alpes)
+So the translation is just about following French grammar rules about gender and article contractions!
+========================================================================================================
+
