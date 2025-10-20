@@ -1,5 +1,6 @@
+Date: 19-Oct-2025
 Q1. Why is "Farm animals" translated as "Les Animaux De La Ferme" where as "Zoo animals" is translated as "Les Animaux Du Zoo"  and why not "Les Animaux De La Zoo"
-Ans1
+Ans:
 "Farm animals" → "Les Animaux De La Ferme"
 Here we use "de la" because:
 "Ferme" (farm) is a feminine noun (la ferme)
@@ -25,3 +26,63 @@ Plural places: "de + les" → "des" (des États-Unis, des Alpes)
 So the translation is just about following French grammar rules about gender and article contractions!
 ========================================================================================================
 
+Date: 20-Oct-2025
+Q2. Why  - "Je ne comprends pas" and not "Je ne pas comprends"
+Ans: This is about a fundamental rule in French grammar regarding negation with compound verbs.
+The rule: In French, negation uses two parts: ne + pas (or other negative words like jamais, rien, plus). These two parts wrap around the verb like a sandwich. The pattern is: ne + verb + pas
+
+So: "Je ne comprends pas" (jun comphondre pah)  [Means I don't understand]
+Why not "Je ne pas comprends"?
+Because the negative particles must surround the conjugated verb, not come before it together. The verb needs to sit between ne and pas.
+More examples:
+
+Je ne sais pas (jun saay pah)  [Means I don't know]
+Il ne parle pas (eel-n parley pah)  [Means He doesn't speak]
+Nous ne mangeons pas (noon ne maun-jon-pah)  [n in jon is nasal; Means We don't eat]
+
+With compound tenses:
+When you have compound verbs (like passé composé), the ne...pas wraps around the auxiliary verb:
+
+Je n'ai pas compris (jun ay pah kompree)  [Means I didn't understand]
+Il n'est pas venu (eel ne est pas venu)  [Means He didn't come]
+
+Think of it as:
+Ne and pas are like two hands that grab the verb from both sides. They need the verb between them to complete the negative meaning.
+
+Compound verbs in French are verbs made up of two parts: an auxiliary verb + a past participle (or infinitive).
+The Two Types:
+1. Compound Tenses (most common)
+These use an auxiliary verb (avoir or être) + past participle:
+Passé composé (present perfect):
+
+J'ai mangé (I have eaten / I ate)
+Elle est arrivée (She has arrived / She arrived)
+
+Plus-que-parfait (pluperfect):
+
+J'avais fini (I had finished)
+Il était parti (He had left)
+
+Futur antérieur (future perfect):
+
+J'aurai terminé (I will have finished)
+
+2. Modal/Semi-auxiliary Constructions
+A conjugated verb + infinitive:
+
+Je vais manger (I'm going to eat)
+Il peut comprendre (He can understand)
+Elle doit partir (She must leave)
+
+Why This Matters for Negation:
+With compound verbs, ne...pas wraps around the first verb only (the auxiliary or modal):
+
+Je n'ai pas mangé (not Je n'ai mangé pas)
+Elle n'est pas arrivée
+Je ne vais pas manger
+Il ne peut pas comprendre
+
+The past participle or infinitive stays outside the negative sandwich.
+Simple rule: The negative always hugs the conjugated/auxiliary verb, leaving the second part of the compound verb outside.
+
+========================================================================================================
