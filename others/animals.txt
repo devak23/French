@@ -22,7 +22,7 @@ the Cow - la vache (lah vaa-sh)
 the Sheep - le mouton (looh-moo-taun) [n in taun is nasal]
 the Pig - le cochon (looh-koh-shon) [n in shon is nasal]
 the Chicken - le poulet (looh-poo-lay)
-the Goat - la chèvre (lah shay-vra)
+the Goat - la chèvre (lah shay-vruh)
 the Horse - le cheval (looh-che-vala)
 the Duck - le canard (looh-can-aa)
 
@@ -96,3 +96,22 @@ the pigeon = le pigeon (looh-pee-jaun) [n in "jaun" is nasal]
 the swan = le cygne (looh-see-nee)
 the owl = le hibou (looh-ee-boo)
 the stork = la cigogne (la see-goh-nay) [n in "goh-nay" is nasal]
+
+
+Insects - Les Insectes (lez-in-seet)
+====================================
+the caterpillar = la chenille (lah chen-nee)
+the bee = l'abeille (lay-bay)
+the spider = l’araignée (la-rhin-eeay)
+the ant = la fourmi (lah foor-mee)
+the butterfly = le papillon (looh-pah-pi-yon) [n in yon is nasal]
+the moth = le papillon de nuit (looh-pah-pi-lon de new-ee)
+the beetle = le scarabée (looh-ska-ra-bee)
+the centipede = le mille-pattes (looh-mee-lay-pat-h)
+the fly = la mouche (lay mooh-sh)
+the ladybird = la coccinelle (lah kok-see-nail-luh)
+the cockroach = le cafard (looh-kaf-ar)
+the dragonfly = la libellule (lah lee-bay-loo-luh)
+the flea = la puce (lah pyuce) [the "s" sound in pyuce rhymes with "s" sound in juice]
+the mosquito = le moustique (looh-moo-steek)
+the scorpion = le scorpion (looh-skor-pee-yon) [n in yon is nasal]
